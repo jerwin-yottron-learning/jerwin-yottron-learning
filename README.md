@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerwin
+- 👋 Hi, I’m Jerwin
 - 👀 I’m interested in Interacting with Software 
 - 🌱 I’m currently learning .Net Full Stack
 - 💞️ I’m looking to collaborate on Open source projects
