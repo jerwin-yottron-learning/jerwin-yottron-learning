@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jerwin J D
-- 👀 I’m interested in Interacting with Software 
-- 🌱 I’m currently learning .Net Full Stack
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me jerwinjd26@gmail.com
 - ⚡ Fun fact: Writing a clean code.
